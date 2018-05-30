@@ -1,0 +1,10 @@
+apples
+bananas
+yogurt
+peanut butter
+cereal
+eggs
+wine
+nuts
+muesli
+
