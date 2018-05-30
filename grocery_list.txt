@@ -4,7 +4,6 @@ yogurt
 peanut butter
 cereal
 eggs
-wine
 nuts
 muesli
-
+wine
