@@ -7,3 +7,8 @@ eggs
 nuts
 muesli
 wine
+hats
+chips
+dip
+salsa
+witblits
