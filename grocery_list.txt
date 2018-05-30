@@ -1,9 +1,9 @@
 apples
 bananas
 yogurt
-peanut butter
 cereal
 eggs
 nuts
 muesli
 wine
+tequila
